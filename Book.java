@@ -8,5 +8,5 @@ class Book{
 	public String getname(){
 		return this name;
 	}
-
+	System.out.peintln
 }
