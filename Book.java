@@ -8,5 +8,6 @@ class Book{
 	public String getname(){
 		return this name;
 	}
-	System.out.peintln
+setter getter
+	System.out.println
 }
